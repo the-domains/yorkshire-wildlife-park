@@ -1,8 +1,23 @@
+name: Yorkshire Wildlife Park
+favicon: null
 layout_spectrum: 0.4127659
 typography_spectrum: 0.5404951
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  lightness: 0.680851
+  brandColors: []
   brandStrength: 0.02978723
+  lightness: 0.680851
+  saturation: 1
   rhythmicContrast: 0.7127659
-name: Yorkshire Wildlife Park
+purpose: []
